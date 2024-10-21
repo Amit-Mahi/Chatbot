@@ -1,0 +1,4 @@
+rasa-nlu==0.13.2
+rasa
+jupyter
+spacy
